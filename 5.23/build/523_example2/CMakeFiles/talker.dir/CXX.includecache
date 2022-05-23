@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sun/learn/Learn-ROS-Qt/5.23/src/523_example2/talker.cpp
+ros/ros.h
+/home/sun/learn/Learn-ROS-Qt/5.23/src/523_example2/ros/ros.h
+std_msgs/String.h
+/home/sun/learn/Learn-ROS-Qt/5.23/src/523_example2/std_msgs/String.h
+
